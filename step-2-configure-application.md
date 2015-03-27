@@ -36,7 +36,15 @@ Finally, let us remove the test folder. Instead We will use spec folder for writ
 
 $ rm -fr test/
 
-We are now ready to go
+We are now ready with the testing framework
+Let us run the tests
+
+$ rspec
+
+No examples found.
+
+Finished in 0.00029 seconds (files took 0.18185 seconds to load)
+0 examples, 0 failures
 
 
 
