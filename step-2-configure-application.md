@@ -17,6 +17,9 @@ group :development, :test do
   ...
 end
 
+# EXPLAIN about Gemfile
+# Add link to migrations page of railsguides
+
 rspec and shoulda will help us to do TDD and pry is a debugger
 
 These gems are hosted in rubygems.org (primarily).
@@ -29,11 +32,12 @@ We will use rspec generator to install the required files
 
 $ rails generate rspec:install
 
+Finally, let us remove the test folder. Instead We will use spec folder for writing test cases.
+
+$ rm -fr test/
+
 We are now ready to go
 
-show the expected json format first
-
-create the first request spec - books_spec.rb in specs/requests folder
 
 
 
