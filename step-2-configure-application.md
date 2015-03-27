@@ -1,0 +1,39 @@
+# Configure your first rails application
+
+Now let us go ahead and configure our application so that we are ready to start our development. I will be explaining about some parts of the project code rails has created us, as and when we cover them.
+
+As a first step, I would like to add rspec-rails gem to our application.
+
+Add the following gems to Gemfile under the development and test group
+
+group :development, :test do
+
+  ...
+
+  gem 'rspec-rails', '~> 3.0'
+  gem "shoulda"
+  gem "pry"
+
+  ...
+end
+
+rspec and shoulda will help us to do TDD and pry is a debugger
+
+These gems are hosted in rubygems.org (primarily).
+Now tell, rails to fetch these gems from the server and install locally.
+
+$ bundle install
+
+Now let us install rspec helper files to our application.
+We will use rspec generator to install the required files
+
+$ rails generate rspec:install
+
+We are now ready to go
+
+show the expected json format first
+
+create the first request spec - books_spec.rb in specs/requests folder
+
+
+
