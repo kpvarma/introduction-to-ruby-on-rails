@@ -42,7 +42,7 @@ $ rails -v (in linux, mac)
 
 ![Ruby on Rails](http://blog.bounceweb.com/wp-content/uploads/2010/09/Tools-for-Ruby-on-Rails-logo.jpg "Ruby on Rails, a web application framework")
 
-
+* [NEXT >> Create a rails Application and Configure it](step-2-configure-application.md)
 
 image courtesy : http://compsci.ca, http://blog.bounceweb.com
 

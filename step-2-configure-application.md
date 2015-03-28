@@ -1,4 +1,4 @@
-##### Create rails application
+##### Create a rails application
 
 Let us first create a rails application
 
@@ -9,7 +9,7 @@ Let us first create a rails application
 
 ##### Configure your first rails application
 
-Now let us go ahead and configure our application so that we are ready to start our development. I will be explaining about some parts of the project code rails has created us, as and when we cover them.
+Now let us go ahead and configure our application so that we are ready to start our development. Let us learn new things as and when we see them.
 
 As a first step, I would like to add rspec-rails gem to our application.
 
@@ -33,7 +33,7 @@ Your gemfile is a list of all gems that you want to include in the project. It i
 rspec and shoulda will help us to do TDD and pry is a debugger
 
 These gems are hosted in rubygems.org (primarily).
-Now tell, rails to fetch these gems from the server and install locally.
+Now let us tell rails to fetch these gems from the server and install locally.
 
 `$ bundle install`
 
@@ -57,6 +57,16 @@ No examples found.
 Finished in 0.00029 seconds (files took 0.18185 seconds to load)
 0 examples, 0 failures
 ```
+
+* [BACK << Create a rails Application and Configure it](step-2-configure-application.md)
+* [NEXT >> Setup Database and start the application](step-3-setup-database-and-start-application.md)
+
+##### References
+
+* http://stackoverflow.com/questions/14072880/whats-the-use-of-gemfile-in-rails
+* http://bundler.io/
+* http://rspec.info/
+* https://github.com/rspec/rspec-rails
 
 
 
