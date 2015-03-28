@@ -65,6 +65,7 @@ Finished in 0.00029 seconds (files took 0.18185 seconds to load)
 > [BACK << Create a rails Application and Configure it](step-2-configure-application.md)
 > [NEXT >> Setup Database and start the application](step-3-setup-database-and-start-application.md)
 
+
 ##### References
 
 * http://stackoverflow.com/questions/14072880/whats-the-use-of-gemfile-in-rails
