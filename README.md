@@ -1,8 +1,6 @@
-### introduction To Ruby On Rails
+### Introduction To Ruby On Rails
 
 See Rails in Action. Learn to develop an Online Books Store API using Rails 4.
-
-#### Pre-requisite
 
 In this session, we will do the following:
 
@@ -14,6 +12,7 @@ In this session, we will do the following:
 
 ### Index
 
+* [Installation Links](step-1-installation-links.md)
 * [Create a rails Application and Configure it](step-2-configure-application.md)
 * [Setup Database and start the application](step-3-setup-database-and-start-application.md)
 * [Write the User Story](step-4-write-user-story.md)

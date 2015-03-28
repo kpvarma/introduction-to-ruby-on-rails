@@ -1,4 +1,4 @@
-> [<< BACK: Introduction](step-1-introduction.md)
+> [<< BACK: Installation Links](step-1-installation-links.md)
 
 > [>> NEXT: Setup Database and start the application](step-3-setup-database-and-start-application.md)
 

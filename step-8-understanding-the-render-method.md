@@ -1,4 +1,5 @@
 > [<< BACK: Implementing the first Controller](step-7-first-controller.md)
+
 > [>> NEXT: Implement the User Story](step-9-implement-user-story.md)
 
 Rails believes in convention over configuration
