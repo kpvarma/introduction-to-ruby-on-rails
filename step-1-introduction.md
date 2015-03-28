@@ -1,31 +1,34 @@
 # Pre-requisite
 
-I am not covering installation steps during this session.
-I have added a commeent in the meetup.com page which has links to installation guides. (Both Ruby and Rails)
-I can also share the links again with you all via email.
+In this session, we will do the following:
 
-In this session I will be covering about
+1) Create a rails application from scratch and configure the required gems for test driven development
 
-1) Creating a rails application from scratch and configuring required gems for test driven development
+2) Develop a book store API application which will accept a GET request the URL /api/v1/books.json and returns a the json containing the list of books
 
-2) Showing how to create a simple book store API which will accept a GET request to URL /api/v1/books.json and returns a the json containing the list of books
+3) Follow Test Driven Development (TDD) while developing the application
 
-3) While developing the application, I will be following Test Driven Development (TDD). i.e, I will write a test case for a feature and then develop the application.
+##### Installation
 
-# Check if you have installed ruby and rails properly
+We will not be covering the installation steps here.
+Here are few links which will help you to setup the devleopment environment.
+
+* http://ruby.about.com/od/tutorials/a/installruby.htm
+* https://www.ruby-lang.org/en/documentation/installation/
+* http://guides.rubyonrails.org/getting_started.html
+* http://railsinstaller.org/en
+* http://railsapps.github.io/installing-rails.html
+
+##### Check if you have installed ruby and rails properly
 
 $ ruby -v (in linux, mac)
 ruby 2.1.2p95 (2014-05-08 revision 45877) [x86_64-darwin13.0]
 
 $ rails -v (in linux, mac)
 
+![Ruby](http://technotz.info/stuffs/Oct12/Article14/img/img.png "Ruby, Programming Language")
+![Ruby on Rails](http://blog.bounceweb.com/wp-content/uploads/2010/09/Tools-for-Ruby-on-Rails-logo.jpg "Ruby on Rails, a web application framework")
 
-# Create rails application
-
-Let us first create a rails application
-
-$ rails new books_store --skip-bundle
-
---skip-bundle will tell rails not to fetch the ruby gems from internet and install them locally. I would like to configure more gems for our API before I fetch them.
+image courtesy : http://technotz.info, http://blog.bounceweb.com
 
 
