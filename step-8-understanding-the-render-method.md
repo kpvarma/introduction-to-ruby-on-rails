@@ -1,3 +1,5 @@
+> [<< BACK: Implementing the first Controller](step-7-first-controller.md)
+> [>> NEXT: Implement the User Story](step-9-implement-user-story.md)
 
 Rails believes in convention over configuration
 
@@ -15,3 +17,6 @@ EMBED code/books_controller_3.png
 $ rspec spec/requests/api/v1/books_spec.rb
 
 EMBED requests/request_spec_result_5_green.png
+
+> [<< BACK: Implementing the first Controller](step-7-first-controller.md)
+> [>> NEXT: Implement the User Story](step-9-implement-user-story.md)

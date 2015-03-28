@@ -1,3 +1,6 @@
+> [<< BACK: Defining Routes](step-6-first-route.md)
+> [>> NEXT: The Render Method](step-8-understanding-the-render-method.md)
+
 resoureces :books will give
 
 get     '/api/v1/books'           => "api/v1/books#index",    as: api_v1_books
@@ -30,5 +33,8 @@ $ rspec spec/requests/api/v1/books_spec.rb
 EMBED request_spec_result_4.png
 
 Missing template api/v1/books/index
+
+> [<< BACK: Defining Routes](step-6-first-route.md)
+> [>> NEXT: The Render Method](step-8-understanding-the-render-method.md)
 
 

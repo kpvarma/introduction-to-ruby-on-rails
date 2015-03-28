@@ -1,21 +1,35 @@
-# We now have a bare minimum skeleton rails application which is working.
-# Let us setup the database
+> [<< BACK: Create a rails Application and Configure it](step-2-configure-application.md)
 
-# EXPLAIN db folder, migration (version, up and down)
-# Add link to migrations page of railsguides
+> [>> NEXT: Write the User Story](step-4-write-user-story.md)
 
-$ rake db:create db:migrate
+We now have a bare minimum skeleton rails application which is working. Let us setup the database
 
-Let us start the application
+```
+|-> demo-application
+..
+..
+|-> db
+  |-> migrate
+    |-> 20150322110343_create_books.rb
+  |-> schema.rb
+  |-> seed.rb
+..
+..
 
-# EXPLAIN about schema.rb
+```
 
-$ rails s
+Let us create the database file (in our case it is SQLite3) and run the migrations
+
+`$ rake db:create db:migrate`
+
+Now, start the application
+
+`$ rails s`
 
 This will now invoke bin/rails script which is responsible for spawning a webrick which is a web server.
 Webrick will by default listen to localhost:3000
 
-# you can change the port by passing -p 3001.
+> you can change the port by passing -p 3001.
 
 Let us see what our application look like.
 
@@ -23,6 +37,17 @@ Open up a browser and type localhost:3000 and hit enter
 you will see a getting started page.
 
 Yay. we are done with Step 3 - few more to go.
+
+> [<< BACK: Create a rails Application and Configure it](step-2-configure-application.md)
+
+> [>> NEXT: Write the User Story](step-4-write-user-story.md)
+
+
+##### References
+
+* http://www.tutorialspoint.com/ruby-on-rails/rails-directory-structure.htm
+* http://stackoverflow.com/questions/9884429/rails-what-does-schema-rb-do
+* http://guides.rubyonrails.org/active_record_migrations.html
 
 
 
