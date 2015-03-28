@@ -10,7 +10,6 @@ request specs are written while develop a controller request
 
 > Create file '/api/v1/books_spec.rb'
 
-EMBED code/request_spec_1.png
 ![1](images/code/request_spec_1.png)
 
 Let us run it

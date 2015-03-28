@@ -12,13 +12,12 @@ It is throwing error because if is unable to find books controller and index act
 
 let us create api/v1 module first and then create our first controller i.e books controller.rb
 
-EMBED code/books_controller_1.png
+![1](images/code/books_controller_1.png)
 
 Let us run it again
 
 $ rspec spec/requests/api/v1/books_spec.rb
 
-EMBED results/request_spec_result_3.png
 ![1](images/results/request_spec_result_3.png)
 
 The action 'index' could not be found for Api::V1::BooksController
@@ -26,14 +25,13 @@ The action 'index' could not be found for Api::V1::BooksController
 We haven't defined the action index.
 Let us do it.
 
-EMBED code/books_controller_2.png
 ![1](images/code/books_controller_2.png)
 
 Let us run it again
 
 $ rspec spec/requests/api/v1/books_spec.rb
 
-EMBED request_spec_result_4.png
+![1](images/results/request_spec_result_4.png)
 
 Missing template api/v1/books/index
 

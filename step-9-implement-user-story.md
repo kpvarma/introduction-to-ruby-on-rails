@@ -6,7 +6,6 @@ However, our user story want the API to render books json data
 
 Let us modify the request to add our new expectation
 
-EMBED codes/request_spec_2.png
 ![1](images/codes/request_spec_2.png)
 
 > [<< BACK: 8. The Render Method](step-8-understanding-the-render-method.md)
