@@ -1,3 +1,7 @@
+[BACK << Create a rails Application and Configure it](step-2-configure-application.md)
+[NEXT >> Setup Database and start the application](step-3-setup-database-and-start-application.md)
+
+
 ##### Create a rails application
 
 Let us first create a rails application
@@ -58,8 +62,8 @@ Finished in 0.00029 seconds (files took 0.18185 seconds to load)
 0 examples, 0 failures
 ```
 
-* [BACK << Create a rails Application and Configure it](step-2-configure-application.md)
-* [NEXT >> Setup Database and start the application](step-3-setup-database-and-start-application.md)
+[BACK << Create a rails Application and Configure it](step-2-configure-application.md)
+[NEXT >> Setup Database and start the application](step-3-setup-database-and-start-application.md)
 
 ##### References
 
