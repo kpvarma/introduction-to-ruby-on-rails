@@ -1,3 +1,8 @@
+* [<< BACK: 0. Inroduction](README.md)
+
+* [>> NEXT: 2. Create a rails Application and Configure it](step-2-configure-application.md)
+
+
 ##### Installation
 
 We will not be covering the installation steps here.
@@ -16,6 +21,7 @@ ruby 2.1.2p95 (2014-05-08 revision 45877) [x86_64-darwin13.0]
 
 $ rails -v (in linux, mac)
 
-* [<< BACK: Inroduction](README.md)
-* [>> NEXT: Create a rails Application and Configure it](step-2-configure-application.md)
+* [<< BACK: 0. Inroduction](README.md)
+
+* [>> NEXT: 2. Create a rails Application and Configure it](step-2-configure-application.md)
 

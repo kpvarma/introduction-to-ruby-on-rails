@@ -1,6 +1,6 @@
-> [<< BACK: Setup Database and start the application](step-3-setup-database-and-start-application.md)
+> [<< BACK: 3. Setup Database and start the application](step-3-setup-database-and-start-application.md)
 
-> [>> NEXT: Write the first Request Spec](step-5-write-the-first-request-spec.md)
+> [>> NEXT: 5. Write the first Request Spec](step-5-write-the-first-request-spec.md)
 
 It is time to do some real action.
 Let us set some expectations
@@ -17,9 +17,9 @@ I have the json format defined here already which is like:
 
 Now we have expectation set. Let us start developing the applicaiton.
 
-> [<< BACK: Setup Database and start the application](step-3-setup-database-and-start-application.md)
+> [<< BACK: 3. Setup Database and start the application](step-3-setup-database-and-start-application.md)
 
-> [>> NEXT: Write the first Request Spec](step-5-write-the-first-request-spec.md)
+> [>> NEXT: 5. Write the first Request Spec](step-5-write-the-first-request-spec.md)
 
 ##### References
 

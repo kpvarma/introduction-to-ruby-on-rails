@@ -1,6 +1,6 @@
-> [<< BACK: Create a rails Application and Configure it](step-2-configure-application.md)
+> [<< BACK: 2. Create a rails Application and Configure it](step-2-configure-application.md)
 
-> [>> NEXT: Write the User Story](step-4-write-user-story.md)
+> [>> NEXT: 4. Write the User Story](step-4-write-user-story.md)
 
 We now have a bare minimum skeleton rails application which is working. Let us setup the database
 
@@ -38,9 +38,9 @@ you will see a getting started page.
 
 Yay. we are done with Step 3 - few more to go.
 
-> [<< BACK: Create a rails Application and Configure it](step-2-configure-application.md)
+> [<< BACK: 2. Create a rails Application and Configure it](step-2-configure-application.md)
 
-> [>> NEXT: Write the User Story](step-4-write-user-story.md)
+> [>> NEXT: 4. Write the User Story](step-4-write-user-story.md)
 
 
 ##### References

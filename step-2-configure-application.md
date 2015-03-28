@@ -1,6 +1,6 @@
-> [<< BACK: Installation Links](step-1-installation-links.md)
+> [<< BACK: 1. Installation Links](step-1-installation-links.md)
 
-> [>> NEXT: Setup Database and start the application](step-3-setup-database-and-start-application.md)
+> [>> NEXT: 3. Setup Database and start the application](step-3-setup-database-and-start-application.md)
 
 
 ##### Create a rails application
@@ -63,9 +63,9 @@ Finished in 0.00029 seconds (files took 0.18185 seconds to load)
 0 examples, 0 failures
 ```
 
-> [<< BACK: Introduction](step-1-introduction.md)
+> [<< BACK: 1. Installation Links](step-1-installation-links.md)
 
-> [>> NEXT: Setup Database and start the application](step-3-setup-database-and-start-application.md)
+> [>> NEXT: 3. Setup Database and start the application](step-3-setup-database-and-start-application.md)
 
 
 ##### References

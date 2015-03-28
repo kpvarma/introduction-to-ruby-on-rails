@@ -1,6 +1,6 @@
-> [<< BACK: Implementing the first Controller](step-7-first-controller.md)
+> [<< BACK: 7. Implementing the first Controller](step-7-first-controller.md)
 
-> [>> NEXT: Implement the User Story](step-9-implement-user-story.md)
+> [>> NEXT: 9. Implement the User Story](step-9-implement-user-story.md)
 
 Rails believes in convention over configuration
 
@@ -14,10 +14,13 @@ Instead of creating a static index.json file, let us depend on render method in 
 Let us first render a black json to get things going.
 
 EMBED code/books_controller_3.png
+![1](images/code/books_controller_3.png)
 
 $ rspec spec/requests/api/v1/books_spec.rb
 
 EMBED requests/request_spec_result_5_green.png
+![1](images/results/request_spec_result_5_green.png)
 
-> [<< BACK: Implementing the first Controller](step-7-first-controller.md)
-> [>> NEXT: Implement the User Story](step-9-implement-user-story.md)
+> [<< BACK: 7. Implementing the first Controller](step-7-first-controller.md)
+
+> [>> NEXT: 9. Implement the User Story](step-9-implement-user-story.md)
