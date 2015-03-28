@@ -28,12 +28,12 @@ $ rails -v (in linux, mac)
 
 ![Ruby](http://technotz.info/stuffs/Oct12/Article14/img/img.png "Ruby, Programming Language")
 
-![Ruby](http://technotz.info/stuffs/Oct12/Article14/img/img.png "Ruby Programming Language")
+![Ruby](http://compsci.ca/blog/wp-content/uploads/2007/04/ruby_logo.gif "Ruby Programming Language")
 
 ![Ruby on Rails](http://blog.bounceweb.com/wp-content/uploads/2010/09/Tools-for-Ruby-on-Rails-logo.jpg "Ruby on Rails, a web application framework")
 
 
 
-image courtesy : http://technotz.info, http://blog.bounceweb.com
+image courtesy : http://compsci.ca, http://blog.bounceweb.com
 
 
