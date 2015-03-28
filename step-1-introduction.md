@@ -34,4 +34,8 @@ $ rails -v (in linux, mac)
 
 image courtesy : http://compsci.ca, http://blog.bounceweb.com
 
+### Index
+
+* [Create a rails Application and Configure it](../step-2-configure-application.md)
+
 
