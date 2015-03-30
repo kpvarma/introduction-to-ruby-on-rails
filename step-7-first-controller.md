@@ -1,6 +1,9 @@
-> [<< BACK: 6. Defining Routes](step-6-first-route.md)
+> [<< 6. Defining Routes](step-6-first-route.md)
 
-> [>> NEXT: 8. The Render Method](step-8-understanding-the-render-method.md)
+> [>> 8. The Render Method](step-8-understanding-the-render-method.md)
+
+
+### First Controller
 
 resoureces :books will give
 
@@ -35,7 +38,7 @@ $ rspec spec/requests/api/v1/books_spec.rb
 
 Missing template api/v1/books/index
 
-> [<< BACK: 6. Defining Routes](step-6-first-route.md)
+> [<< 6. Defining Routes](step-6-first-route.md)
 
-> [>> NEXT: 8. The Render Method](step-8-understanding-the-render-method.md)
+> [>> 8. The Render Method](step-8-understanding-the-render-method.md)
 

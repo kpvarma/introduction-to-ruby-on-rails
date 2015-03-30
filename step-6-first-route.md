@@ -1,6 +1,9 @@
-> [<< BACK: 5. Write the first Request Spec](step-5-write-the-first-request-spec.md)
+> [<< 5. Write the first Request Spec](step-5-write-the-first-request-spec.md)
 
-> [>> NEXT: 7. Implementing the first Controller](step-7-first-controller.md)
+> [>> 7. Implementing the first Controller](step-7-first-controller.md)
+
+
+### First Route
 
 What are routes ? Routes are responsible for routing the requests to appropriate controller.
 
@@ -34,6 +37,6 @@ Let us inspect the error
 
 'uninitialized constant Api'
 
-> [<< BACK: 5. Write the first Request Spec](step-5-write-the-first-request-spec.md)
+> [<< 5. Write the first Request Spec](step-5-write-the-first-request-spec.md)
 
-> [>> NEXT: 7. Implementing the first Controller](step-7-first-controller.md)
+> [>> 7. Implementing the first Controller](step-7-first-controller.md)

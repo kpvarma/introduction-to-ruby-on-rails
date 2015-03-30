@@ -1,6 +1,9 @@
-> [<< BACK: 4. Write the User Story](step-4-write-user-story.md)
+> [<< 4. Write the User Story](step-4-write-user-story.md)
 
-> [>> NEXT: 6. Defining Routes](step-6-first-route.md)
+> [>> 6. Defining Routes](step-6-first-route.md)
+
+
+### Write the First Request Spec
 
 Let us first create a new folder under /spec named
 requests
@@ -16,7 +19,7 @@ Let us run it
 
 `$ rspec spec/requests/api/v1/books_spec.rb`
 
-![1](images/code/request_spec_result_1.png)
+![1](images/results/request_spec_result_1.png)
 
 Let us inspect the error
 
@@ -24,6 +27,6 @@ Let us inspect the error
 
 Why? Because we haven't defined routes
 
-> [<< BACK: 4. Write the User Story](step-4-write-user-story.md)
+> [<< 4. Write the User Story](step-4-write-user-story.md)
 
-> [>> NEXT: 6. Defining Routes](step-6-first-route.md)
+> [>> 6. Defining Routes](step-6-first-route.md)

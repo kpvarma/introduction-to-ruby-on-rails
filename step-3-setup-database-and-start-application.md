@@ -1,6 +1,9 @@
-> [<< BACK: 2. Create a rails Application and Configure it](step-2-configure-application.md)
+> [<< 2. Create a rails Application and Configure it](step-2-configure-application.md)
 
-> [>> NEXT: 4. Write the User Story](step-4-write-user-story.md)
+> [>> 4. Write the User Story](step-4-write-user-story.md)
+
+
+### Setup Database and Start Application
 
 We now have a bare minimum skeleton rails application which is working. Let us setup the database
 
@@ -18,7 +21,7 @@ We now have a bare minimum skeleton rails application which is working. Let us s
 
 ```
 
-Let us create the database file (in our case it is SQLite3) and run the migrations
+Let us create the database file (in our case it is [SQLite3][sqlite3]) and run the migrations
 
 `$ rake db:create db:migrate`
 
@@ -38,9 +41,9 @@ you will see a getting started page.
 
 Yay. we are done with Step 3 - few more to go.
 
-> [<< BACK: 2. Create a rails Application and Configure it](step-2-configure-application.md)
+> [<< 2. Create a rails Application and Configure it](step-2-configure-application.md)
 
-> [>> NEXT: 4. Write the User Story](step-4-write-user-story.md)
+> [>> 4. Write the User Story](step-4-write-user-story.md)
 
 
 ##### References
@@ -49,7 +52,7 @@ Yay. we are done with Step 3 - few more to go.
 * http://stackoverflow.com/questions/9884429/rails-what-does-schema-rb-do
 * http://guides.rubyonrails.org/active_record_migrations.html
 
-
+[sqlite]: https://www.sqlite.org/
 
 
 
